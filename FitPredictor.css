@@ -1,0 +1,45 @@
+.fit-predictor {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 30px 20px;
+  border-radius: 12px;
+  margin: 20px auto;
+  width: 60%;
+  box-shadow: 0 0 12px rgba(0,0,0,0.15);
+}
+
+.fit-predictor h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #222;
+}
+
+.fit-predictor input {
+  margin: 10px;
+  padding: 10px;
+  width: 160px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.fit-predictor button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #0066cc;
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.fit-predictor button:hover {
+  background-color: #004c99;
+}
+
+.prediction {
+  margin-top: 15px;
+  font-size: 18px;
+  color: green;
+}

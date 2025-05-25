@@ -1,0 +1,19 @@
+.fit-predictor {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  background-color: #f5f5f5;
+}
+.fit-predictor input {
+  margin: 5px 0;
+  width: 100%;
+  padding: 8px;
+}
+.fit-predictor button {
+  padding: 8px;
+  background-color: teal;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
